@@ -1,4 +1,4 @@
 parallel_sort
 =============
 
-code for a parallel sort using openMP
+a parallel sort I wrote for use with openMP
